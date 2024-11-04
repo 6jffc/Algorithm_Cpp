@@ -1,0 +1,1 @@
+Create a table showing the height s(t) when t = 0, 0.5, 1, 1.5, 2, and2.5. Using the data from the table, determine the domain for this function. That is, find the time c when the ball hits the ground.
